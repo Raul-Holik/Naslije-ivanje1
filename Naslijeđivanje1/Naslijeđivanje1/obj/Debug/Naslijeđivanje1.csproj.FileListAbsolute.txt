@@ -1,0 +1,8 @@
+C:\Users\Osoba\Documents\Skola\Naslijeđivanje1\Naslijeđivanje1\bin\Debug\Naslijeđivanje1.exe.config
+C:\Users\Osoba\Documents\Skola\Naslijeđivanje1\Naslijeđivanje1\bin\Debug\Naslijeđivanje1.exe
+C:\Users\Osoba\Documents\Skola\Naslijeđivanje1\Naslijeđivanje1\bin\Debug\Naslijeđivanje1.pdb
+C:\Users\Osoba\Documents\Skola\Naslijeđivanje1\Naslijeđivanje1\obj\Debug\Naslijeđivanje1.csproj.AssemblyReference.cache
+C:\Users\Osoba\Documents\Skola\Naslijeđivanje1\Naslijeđivanje1\obj\Debug\Naslijeđivanje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osoba\Documents\Skola\Naslijeđivanje1\Naslijeđivanje1\obj\Debug\Naslijeđivanje1.csproj.CoreCompileInputs.cache
+C:\Users\Osoba\Documents\Skola\Naslijeđivanje1\Naslijeđivanje1\obj\Debug\Naslijeđivanje1.exe
+C:\Users\Osoba\Documents\Skola\Naslijeđivanje1\Naslijeđivanje1\obj\Debug\Naslijeđivanje1.pdb
